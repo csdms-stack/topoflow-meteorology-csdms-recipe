@@ -1,4 +1,4 @@
-{% set name = "topoflow-meteorology-csdms" %}
+{% set name = "csdms-topoflow-meteorology" %}
 {% set version = "3.4" %}
 
 package:
